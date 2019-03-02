@@ -2,8 +2,8 @@
 "dishes": [
 {
 "id": 0,
-"name": "https://lh3.googleusercontent.com/zRuyHFWSayVzcfhVQ0zlBTejhpnr4GUAOU5cTp0jVgTgy7jMwL6JWYvTXcxmNbgJxNjp2GK3bcqkqiJgkDkTLQhbLwsJkdoKwj0kUfifJ0HuvfF-HeN_vSTL4VTWDXp4PRwscQDAMQViwh5oV98bMlqJBRRJ86AhVc11_4JdkdWljaV86rD8i2qwMawDR8guaxo4yY3Rv1KvQI0fpY--1blS7W11_flIibm28eQIhPIta6obzM7t3tBuE2IoBsP_6-wPgLDRC5paPKo1VPyykJNtxeDeMgK2q6BzBpr0_Z_7y0PpyPtVECuUA8VyCOa0vD2de7bPcCuy8rHHrHzpKRqzNdn0iDzNW0Yu_G7ct9G7n1B84qLoT56uZ2XwoNcO9cElrUnfo2aawjHYvad2O4yD3TqhiAKMWSaf9Cj1TwzDuXf84lp-4aGgtSsPU3fHXB9cm4wmfoINgXA9w43bcppc07CBOIHXdlleKA_hkezBbPXt9ou0ZAaw1FMhvrRGFP3KG-WNpgLLmQu2GKqfV7JLgGH6JRB09UBnUYA4AhZyQH5N5F3lEmejccqDktjZIydeL5QrK1BgV7ytR0Dg_lzT1s0R5C0ttpiv3W7YALtSz1NKqygjZjcwfxmzZyQWoF4nDtdoVBWOa4fhyyuddilNNwseSS8=w565-h676-no",
-"image": "images/uthappizza.png",
+"name": "Uthappizza",
+"image": "https://bit.ly/2TdqkuY",
 "category": "mains",
 "label": "Hot",
 "price": "4.99",
@@ -13,7 +13,7 @@
 {
 "id": 1,
 "name": "Zucchipakoda",
-"image": "https://lh3.googleusercontent.com/UcWC_WeNuwuV9080JIYZAEN2m0k6i2rg4pLpjVmd6OOzHQOkemmejjEw0HHy11bm9UjuNaXuffbMdFAnpDcVmm1H4MIjkwZaCJoRDgpBG9eYAxDZClNyOEFNJT5WhUxqgxPldmKw03g8RjiiiKHb0wBezvXXmqFXz1_q2fbFZzlgwiOE2wEJRU1inJB_-2xGG3MDLVOlYDyRtNftSX8tSVyK6x74oMAzVhVUMQsUbXYFkMJVM5BtS99qYlaa_vGDEiwfEms6Jhui6wcfhfRkAk9gAue2txjcNlnfE6Vp_3_2AMf1KJBzSbiHG4IcZdJtOmBmApIyLsQXN4n_8iocXSozkMP6C7xNqyRJxb8aLsbtg33w3ePCh-_QPgN18cWB46BbFcHUZrn45ZqlU9yGlyG1HYtLIyucf5OdcfHOgXAW3NkwWM_DoD0IzZHOFPVvTss-B-XZqXhkR9FXUngdsOodP4M8ND4VhRYMhCB-SOjRQ3C7MSeCkSp1jYcS0zHglJ7X5kXosnw7Tt7Hx0UM__8DNaIvhvjuAFM7Qt_tsbTxxfzfJ53vHAR2ZNLLcKrBlqKegapeiFfIUX92K9BsUpWXuV_OKdVjk5J-wA9QiZUabUPZpRUwL__VjsyEvAongQb9cKuj_ODazWknFzYMg19Ntx7lr6U=w550-h381-no",
+"image": "https://bit.ly/2UjuQ7K",
 "category": "appetizer",
 "label": "",
 "price": "1.99",
@@ -23,7 +23,7 @@
 {
 "id": 2,
 "name": "Vadonut",
-"image": "https://lh3.googleusercontent.com/nTmbTVPSzqYnmqk54KHHKxTNH_jHIi0MVOTT89r3WL30RcsfG57sPR6mARk5vb9AWHCahbJ8qRr7hC6KbGmRmzx0wg04wlkQZv-Y-k3rdoWGI9TS3LMkBSz72as3INTayRkMd_5qr3tzLukgHwN0kOfUziHXpCMpGr_JcPhLvklQLtuGb-_mKz-NqBHozC5z7TOCIKKxtjyCzG_1vNeCPxAF4GszMVBZlxvh_QPzyKvTlSW17kTKhPmdnBthtaFtu1gQtdznR9f_SgzPoW2Hpstfb5y2wnBelLacJFc457ia_iSeqFfwLa3mwfoGukdSJaC9UPdeJRs5MZworfKRgpwQc92cOZ8oc73EkD9jWbW_IR5uVF55qvsrPB04moE3eUlIMnNdhsWMGVMzWEKKnt-fXeoKjdsBXkaAv3A_lSD1dAq2v5fnj9CwkOCDyhxV5ouB8txha6wVDY0iySpTDTXxBwsSvB1acLklG4q2CeZjjrR-OUxqjYn5I2H1GnMe5DHqH_X_HE0970YaIXEpl_jNyWDY6xyNio-b__q4RimOjqcDJFxmAOAf6-y7iAIhhkGXX7eVRvkLgFd3gr-rb54YH5FM-2Nnob5CIU9nnDGnOeYcy1FxZesnnAmGBvH8H40Jms60BqM6wovjRvniO6zufAJq4-4=w625-h350-no",
+"image": "https://bit.ly/2Tr7AaL",
 "category": "appetizer",
 "label": "New",
 "price": "1.99",
@@ -33,7 +33,7 @@
 {
 "id": 3,
 "name": "ElaiCheese Cake",
-"image": "https://lh3.googleusercontent.com/t45aqjdPLzRbI2Lg68ZpiH9kkVTcsOMTSngOWMFQqxefxhgDB--NiZjO4MZfDNYVxNBFgJoCJ-4NSlj-tMiLe5HPqPGGe7rvt5JNN-RHtvay8twXV3rrx6FAG7rekTAcAbOdnG4mJq5Zgy8Ybw_gpK3N32Ib98x8undMjxzWt3WUUtvKKOtr5WNWEgrm7bYf_gZPEEX0JWZUMksFabl89ITMEohytP-wgMDOQw_3LiRJUtVeyMuk-I5syZt6n6ZOllBP8XrynJIdHDWGRzuQtd8NKnktpz2aN5e3pSeSqXSQwbjtIPfMoecT68dD29bH4ZfNYiS5818uOv4rpQzQEQLuOET4DwN1rhBUZ3XzL7qpv8vJHo599YNVgr7E3oF5l3ludSjIqgmQlO7ISI_n69anTwEjQ5SG8zY7ogeYPGRv6bt1j23rbnTV66PE1aGYIS3DXh5fKN-wDqaR6l3Ecz_nuGRDbe6f273WNVtXwDhmM4H6CT49fT9A748vFXxZF7HerOS-BW3tppajq0C-0DoC02qslG_3kCVY7p9_Ix_m0R-Q36IK9K2KRjmJsRCgCaCA8X_cwXtS3xFmJLNwU1BsFffifD_MVBRLnDycnc5ZI1e9hfcded_ug9_h0lHkWG2WVzprt2mTexv9kOvyPb9aRLCNy4w=s932-no",
+"image": "https://bit.ly/2SElAtk",
 "category": "dessert",
 "label": "",
 "price": "2.99",
@@ -143,7 +143,7 @@
 {
 "id": 0,
 "name": "Weekend Grand Buffet",
-"image": "https://lh3.googleusercontent.com/Zod6hNLHve-FoJz0zZSqXBgttO5gPB4YBY4xHPP9MVaJP2589kOdN7MY1FZ_Qk-mRmkYVFEmAQrcv2HBiPi9FYs9hwQtRQ2moYWYCHj4rftOpbrcDoWfbH5CTeUlO75anFvxC8AO8CRZvGrssBNin21p-GzDtNrjg8G8SaMWF1I0S3vwzvIBOr9X5ltRsZbqdV2nhzRrG8KI0C18q5bi2F8vTKbDY3LO35A-NJBIKTcMhCUK2IUfFzW9BIq4FBh1gynur5WTW0v1JTqQF1oUd27OSXxea_M6uP8bWVSzDYrVocRIx-IakWB4v743adDPpAO41sE4IcIps78erUKzTxrLxkqFPm7b_fzTxmFKnPR6B3u_5pjG3F5QJkv2HypSjWvgZJFZPnWpcwYMgPDN5SSGH8Eqlqbq6v7SM1l-oOrHtRaHJQvfBrfeHTxQO3csZHfJSIh9HjWBWR07fp4O1y2_rRfxaqbg6k1DowD8g4h3rtWGQoUAwvzLquPI-QhEXM8qzn62YarCQi-ZKl4cNZ8HYx1_Xe7rrUc44alb5NH18vpwSA-TzJHi8q-cZOX0MUHmsT-ifVu-NsC2J0V9_oJhVnK1dZdF-Um-yS3ek-cnILFMregxlV0WLIkmGx08uDuE_58cfV_0pD9BcxJ0xqj0ytfgPOE=w1000-h800-no",
+"image": "https://bit.ly/2XHYsxQ",
 "label": "New",
 "price": "19.99",
 "featured": true,
@@ -154,7 +154,7 @@
 {
 "id": 0,
 "name": "Peter Pan",
-"image": "https://lh3.googleusercontent.com/WF-JiLlVAt3JrQ6Gq1BRVacXTyEm2JWVVusVJ5YE7C44UsfsikVdnqClkFMtWIZboawZEUYMf52HTbc9HxybgEGg4BLnCeMde-9bWfJUT1rZaNZJ3qga49W0_Ft4tEEAMW_6BTfT3cMPP6DgTR50yWUansIrJvrpcV5yVXw0EpLnIx9xmswfbWYSPYFrJ1X8fc-l3RZ9l-B6q-s7avmISldgmPJODdUCHqe-qSv0GUP0wl1RotnBpu9kG86HW3gZSFeemivaspwTEJdZ3uAJN8XachV-XgwU4p60RWgiTFynYYoQbzW374UGdK7KocGl4TrGgJxZOxJB7sQpt2TPBTQcYGomSxUZR7ix1JJ-AROf23NLr21DFNbYucvCGyOlNRQmff8f4zX9wa6Dj4CJ4yd1m2NI7UfeF6u8irAFZLMLa3cHtGjxXYt6EOLAB9F19UNVE8fCVnS_zD7x6yRDKj7vY4I0shKejLQdBaL0ANtvXCjZyqoTg6nRysIVjI2uLkqSzS6zRb7qu39cZnZMQZvEW5CMJoPA-xSndcFRxwB64RojIp4owlh538rEM7bC-Z5zBOJg7FGcmibosaDEPEl_ZWkf8AYWBxvpPcicTux1DACwDlNjTkAyBgEtL80A5KfR67bCy8fnDVJaxF5bApg9dw9Ml-I=w1280-h546-no",
+"image": "https://bit.ly/2TlxJYw",
 "designation": "Chief Epicurious Officer",
 "abbr": "CEO",
 "featured": false,
@@ -163,7 +163,7 @@
 {
 "id": 1,
 "name": "Dhanasekaran Witherspoon",
-"image": "https://lh3.googleusercontent.com/WF-JiLlVAt3JrQ6Gq1BRVacXTyEm2JWVVusVJ5YE7C44UsfsikVdnqClkFMtWIZboawZEUYMf52HTbc9HxybgEGg4BLnCeMde-9bWfJUT1rZaNZJ3qga49W0_Ft4tEEAMW_6BTfT3cMPP6DgTR50yWUansIrJvrpcV5yVXw0EpLnIx9xmswfbWYSPYFrJ1X8fc-l3RZ9l-B6q-s7avmISldgmPJODdUCHqe-qSv0GUP0wl1RotnBpu9kG86HW3gZSFeemivaspwTEJdZ3uAJN8XachV-XgwU4p60RWgiTFynYYoQbzW374UGdK7KocGl4TrGgJxZOxJB7sQpt2TPBTQcYGomSxUZR7ix1JJ-AROf23NLr21DFNbYucvCGyOlNRQmff8f4zX9wa6Dj4CJ4yd1m2NI7UfeF6u8irAFZLMLa3cHtGjxXYt6EOLAB9F19UNVE8fCVnS_zD7x6yRDKj7vY4I0shKejLQdBaL0ANtvXCjZyqoTg6nRysIVjI2uLkqSzS6zRb7qu39cZnZMQZvEW5CMJoPA-xSndcFRxwB64RojIp4owlh538rEM7bC-Z5zBOJg7FGcmibosaDEPEl_ZWkf8AYWBxvpPcicTux1DACwDlNjTkAyBgEtL80A5KfR67bCy8fnDVJaxF5bApg9dw9Ml-I=w1280-h546-no",
+"image": "https://bit.ly/2TlxJYw",
 "designation": "Chief Food Officer",
 "abbr": "CFO",
 "featured": true,
@@ -172,7 +172,7 @@
 {
 "id": 2,
 "name": "Agumbe Tang",
-"image": "https://lh3.googleusercontent.com/WF-JiLlVAt3JrQ6Gq1BRVacXTyEm2JWVVusVJ5YE7C44UsfsikVdnqClkFMtWIZboawZEUYMf52HTbc9HxybgEGg4BLnCeMde-9bWfJUT1rZaNZJ3qga49W0_Ft4tEEAMW_6BTfT3cMPP6DgTR50yWUansIrJvrpcV5yVXw0EpLnIx9xmswfbWYSPYFrJ1X8fc-l3RZ9l-B6q-s7avmISldgmPJODdUCHqe-qSv0GUP0wl1RotnBpu9kG86HW3gZSFeemivaspwTEJdZ3uAJN8XachV-XgwU4p60RWgiTFynYYoQbzW374UGdK7KocGl4TrGgJxZOxJB7sQpt2TPBTQcYGomSxUZR7ix1JJ-AROf23NLr21DFNbYucvCGyOlNRQmff8f4zX9wa6Dj4CJ4yd1m2NI7UfeF6u8irAFZLMLa3cHtGjxXYt6EOLAB9F19UNVE8fCVnS_zD7x6yRDKj7vY4I0shKejLQdBaL0ANtvXCjZyqoTg6nRysIVjI2uLkqSzS6zRb7qu39cZnZMQZvEW5CMJoPA-xSndcFRxwB64RojIp4owlh538rEM7bC-Z5zBOJg7FGcmibosaDEPEl_ZWkf8AYWBxvpPcicTux1DACwDlNjTkAyBgEtL80A5KfR67bCy8fnDVJaxF5bApg9dw9Ml-I=w1280-h546-no",
+"image": "https://bit.ly/2TlxJYw",
 "designation": "Chief Taste Officer",
 "abbr": "CTO",
 "featured": false,
@@ -181,7 +181,7 @@
 {
 "id": 3,
 "name": "Alberto Somayya",
-"image": "https://lh3.googleusercontent.com/WF-JiLlVAt3JrQ6Gq1BRVacXTyEm2JWVVusVJ5YE7C44UsfsikVdnqClkFMtWIZboawZEUYMf52HTbc9HxybgEGg4BLnCeMde-9bWfJUT1rZaNZJ3qga49W0_Ft4tEEAMW_6BTfT3cMPP6DgTR50yWUansIrJvrpcV5yVXw0EpLnIx9xmswfbWYSPYFrJ1X8fc-l3RZ9l-B6q-s7avmISldgmPJODdUCHqe-qSv0GUP0wl1RotnBpu9kG86HW3gZSFeemivaspwTEJdZ3uAJN8XachV-XgwU4p60RWgiTFynYYoQbzW374UGdK7KocGl4TrGgJxZOxJB7sQpt2TPBTQcYGomSxUZR7ix1JJ-AROf23NLr21DFNbYucvCGyOlNRQmff8f4zX9wa6Dj4CJ4yd1m2NI7UfeF6u8irAFZLMLa3cHtGjxXYt6EOLAB9F19UNVE8fCVnS_zD7x6yRDKj7vY4I0shKejLQdBaL0ANtvXCjZyqoTg6nRysIVjI2uLkqSzS6zRb7qu39cZnZMQZvEW5CMJoPA-xSndcFRxwB64RojIp4owlh538rEM7bC-Z5zBOJg7FGcmibosaDEPEl_ZWkf8AYWBxvpPcicTux1DACwDlNjTkAyBgEtL80A5KfR67bCy8fnDVJaxF5bApg9dw9Ml-I=w1280-h546-no",
+"image": "https://bit.ly/2TlxJYw",
 "designation": "Executive Chef",
 "abbr": "EC",
 "featured": true,
